@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ba13f14.css",
+    "main.js": "/static/js/main.22d924fc.js",
+    "canvaskit.wasm": "/canvaskit.wasm",
+    "static/media/archolos_map.png": "/static/media/archolos_map.9ae354ee98cdd6b45d51.png",
+    "index.html": "/index.html",
+    "main.4ba13f14.css.map": "/static/css/main.4ba13f14.css.map",
+    "main.22d924fc.js.map": "/static/js/main.22d924fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba13f14.css",
+    "static/js/main.22d924fc.js"
+  ]
+}
