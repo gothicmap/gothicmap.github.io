@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4fa40e53.css",
-    "main.js": "/static/js/main.8b2b73c5.js",
+    "main.js": "/static/js/main.46610f14.js",
     "canvaskit.wasm": "/canvaskit.wasm",
     "static/media/archolos_map.png": "/static/media/archolos_map.9ae354ee98cdd6b45d51.png",
     "data/ru/map/map.json": "/data/ru/map/map.json",
@@ -10,10 +10,10 @@
     "data/en/database/items.json": "/data/en/database/items.json",
     "index.html": "/index.html",
     "main.4fa40e53.css.map": "/static/css/main.4fa40e53.css.map",
-    "main.8b2b73c5.js.map": "/static/js/main.8b2b73c5.js.map"
+    "main.46610f14.js.map": "/static/js/main.46610f14.js.map"
   },
   "entrypoints": [
     "static/css/main.4fa40e53.css",
-    "static/js/main.8b2b73c5.js"
+    "static/js/main.46610f14.js"
   ]
 }
