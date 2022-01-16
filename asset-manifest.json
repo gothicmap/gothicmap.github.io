@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fa40e53.css",
-    "main.js": "/static/js/main.a9d4dce5.js",
+    "main.css": "/static/css/main.4ba13f14.css",
+    "main.js": "/static/js/main.c2712a76.js",
     "canvaskit.wasm": "/canvaskit.wasm",
     "static/media/archolos_map.png": "/static/media/archolos_map.9ae354ee98cdd6b45d51.png",
     "data/ru/map/map.json": "/data/ru/map/map.json",
@@ -9,11 +9,11 @@
     "data/ru/database/items.json": "/data/ru/database/items.json",
     "data/en/database/items.json": "/data/en/database/items.json",
     "index.html": "/index.html",
-    "main.4fa40e53.css.map": "/static/css/main.4fa40e53.css.map",
-    "main.a9d4dce5.js.map": "/static/js/main.a9d4dce5.js.map"
+    "main.4ba13f14.css.map": "/static/css/main.4ba13f14.css.map",
+    "main.c2712a76.js.map": "/static/js/main.c2712a76.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fa40e53.css",
-    "static/js/main.a9d4dce5.js"
+    "static/css/main.4ba13f14.css",
+    "static/js/main.c2712a76.js"
   ]
 }
